@@ -39,4 +39,13 @@ bash Script.sh DataModel.tr Rx.dat
 ```
 gnuplot> load 'Plot.p'
 ```
+Ниже представлены типы графиков, полученные при анализе и исследовании производительности различных версий протокола TCP: TCP Tahoe, TCP Reno, TCP NewReno. 
+
+Полный набор графиков находиться в директории ```Img```.
+
+![](https://github.com/tulskov/ns-3-system/blob/master/Wired/Img/Tc10.png)
+![](https://github.com/tulskov/ns-3-system/blob/master/Wired/Img/NRca.png)
+![](https://github.com/tulskov/ns-3-system/blob/master/Wired/Img/Rs10.png)
+![](https://github.com/tulskov/ns-3-system/blob/master/Wired/Img/Tsa.png)
+![](https://github.com/tulskov/ns-3-system/blob/master/Wired/Img/NRcwnd.png)
 
